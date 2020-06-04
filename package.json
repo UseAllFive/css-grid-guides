@@ -1,6 +1,6 @@
 {
   "name": "css-grid-guides",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "Small JavaScript package to aid in development by revealing CSS Grid column guides",
   "main": "index.js",
   "repository": {
