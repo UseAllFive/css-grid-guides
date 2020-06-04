@@ -10,7 +10,7 @@ A small library that reveals CSS grid guides to aid in development
 
 ## Usage
 
-Make sure you're doing something like in order for this library to work correctly
+Make sure you're doing something like this in order for this library to work correctly
 
 ```css
 * {
