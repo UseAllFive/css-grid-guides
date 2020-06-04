@@ -22,7 +22,7 @@ const gg = ({
         col.innerHTML += `<span>${columnCount + 1 - i}</span>`;
         const span = col.querySelector("span");
         span.style.cssText =
-          "background: white; width: 20px; height: 20px; display: inline-flex; justify-content: center; font-size: 12px; align-items: center";
+          "color: black; background: white; width: 20px; height: 20px; display: inline-flex; justify-content: center; font-size: 12px; align-items: center";
       }
       clone.appendChild(col);
     }, columnCount);
