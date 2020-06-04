@@ -1,0 +1,23 @@
+{
+  "name": "css-grid-guides",
+  "version": "1.0.0",
+  "description": "Small JavaScript package to aid in development by revealing CSS Grid column guides",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UseAllFive/css-grid-guides.git"
+  },
+  "keywords": [
+    "css",
+    "grid",
+    "javascript",
+    "frontend",
+    "guides"
+  ],
+  "author": "Bret Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UseAllFive/css-grid-guides/issues"
+  },
+  "homepage": "https://github.com/UseAllFive/css-grid-guides#readme"
+}
