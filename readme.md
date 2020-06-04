@@ -1,5 +1,9 @@
 # CSS Grid Guides
 
+A small library that reveals CSS grid guides to aid in development
+
+![](https://p197.p4.n0.cdn.getcloudapp.com/items/4gujY0R1/Screen%20Shot%202020-06-04%20at%2012.24.32%20PM.png?v=6731af623629a2d0b0b313f5e5431148)
+
 ## Installation
 
 `npm i css-grid-guides`
