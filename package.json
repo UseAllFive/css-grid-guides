@@ -15,7 +15,7 @@
     "guides"
   ],
   "author": "Bret Morris",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/UseAllFive/css-grid-guides/issues"
   },
