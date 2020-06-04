@@ -29,7 +29,7 @@ gg();
 
 // Override specific properties
 gg({
-  selector: "grid-dev",
+  selector: ".grid-dev",
   color: "green",
 });
 ```
