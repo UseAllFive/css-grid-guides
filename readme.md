@@ -10,6 +10,14 @@ A small library that reveals CSS grid guides to aid in development
 
 ## Usage
 
+Make sure you're doing something like in order for this library to work correctly
+
+```css
+* {
+  box-sizing: border-box;
+}
+```
+
 Call `gg()` after the DOM has loaded
 
 ```javascript
@@ -33,3 +41,8 @@ gg({
   color: "green",
 });
 ```
+
+## TODO
+
+- Auto-detect column count
+- Update column count on resize for responsive grids
