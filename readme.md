@@ -29,7 +29,6 @@ import { gg } from "css-grid-guides";
 //   color: "rgb(240,128,128)",
 //   opacity: 0.3,
 //   showNumbers: true,
-//   columnCount: 12,
 // }
 
 // Use defaults
@@ -41,8 +40,3 @@ gg({
   color: "green",
 });
 ```
-
-## TODO
-
-- Auto-detect column count
-- Update column count on resize for responsive grids
